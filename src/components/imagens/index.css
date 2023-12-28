@@ -1,0 +1,25 @@
+.wrapper-container {
+    width: 1200px;
+    max-height: fit-content;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.wrapper-container .banner-box {
+    display: flex;
+    gap: 20px;
+    margin: 20px;
+}
+
+.wrapper-container .banner-box .box-right h1 {
+    color: #c0c0c0;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.wrapper-container .banner-box img{
+   width: 100px;
+   height: 100px;
+}
